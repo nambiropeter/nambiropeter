@@ -33,31 +33,21 @@ I like finishing things, not just prototyping them — a compiler in C, a stock 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nambiropeter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nambiropeter&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nambiropeter&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+![Followers](https://img.shields.io/github/followers/nambiropeter?style=for-the-badge&color=7C3AED&labelColor=181717)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7C3AED&labelColor=181717&label=public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnambiropeter)
 
 </div>
 
 ### Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/nambiropeter/WordQuest">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=nambiropeter&repo=WordQuest&theme=tokyonight&hide_border=true" alt="WordQuest" />
-</a>
-<a href="https://github.com/nambiropeter/kite-compiler">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=nambiropeter&repo=kite-compiler&theme=tokyonight&hide_border=true" alt="kite-compiler" />
-</a>
-<a href="https://github.com/nambiropeter/stock-market-predictor">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=nambiropeter&repo=stock-market-predictor&theme=tokyonight&hide_border=true" alt="stock-market-predictor" />
-</a>
-<a href="https://github.com/nambiropeter/realtime-voting-site">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=nambiropeter&repo=realtime-voting-site&theme=tokyonight&hide_border=true" alt="realtime-voting-site" />
-</a>
-
-</div>
+| | |
+|---|---|
+| **[WordQuest](https://github.com/nambiropeter/WordQuest)** ![stars](https://img.shields.io/github/stars/nambiropeter/WordQuest?style=flat-square&color=7C3AED&label=) | Word search + trivia iOS game — 8 themes, 1,000 levels each, local multiplayer, Game Center, iCloud sync, Live Activities. |
+| **[kite-compiler](https://github.com/nambiropeter/kite-compiler)** ![stars](https://img.shields.io/github/stars/nambiropeter/kite-compiler?style=flat-square&color=7C3AED&label=) | A compiler written in C. |
+| **[stock-market-predictor](https://github.com/nambiropeter/stock-market-predictor)** ![stars](https://img.shields.io/github/stars/nambiropeter/stock-market-predictor?style=flat-square&color=7C3AED&label=) | Stock market prediction model in a Jupyter notebook. |
+| **[realtime-voting-site](https://github.com/nambiropeter/realtime-voting-site)** ![stars](https://img.shields.io/github/stars/nambiropeter/realtime-voting-site?style=flat-square&color=7C3AED&label=) | A real-time voting web app. |
 
 <div align="center">
 <sub>Building in public, one repo at a time.</sub>
