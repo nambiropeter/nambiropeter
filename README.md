@@ -10,7 +10,8 @@
 
 [![Email](https://img.shields.io/badge/Email-anthonynambiropeter%40gmail.com-0b0f1a?style=for-the-badge&logo=gmail&logoColor=f5c518&labelColor=0b0f1a&color=1f2937)](mailto:anthonynambiropeter@gmail.com)
 [![Location](https://img.shields.io/badge/Based_in-Nairobi%2C_Kenya-0b0f1a?style=for-the-badge&logo=googlemaps&logoColor=22d3ee&labelColor=0b0f1a&color=1f2937)](#)
-[![WordQuest](https://img.shields.io/badge/Now_shipping-WordQuest-0b0f1a?style=for-the-badge&logo=apple&logoColor=e5e7eb&labelColor=0b0f1a&color=e23636)](https://github.com/nambiropeter/WordQuest)
+[![WordQuest on the App Store](https://img.shields.io/badge/WordQuest-App_Store-0b0f1a?style=for-the-badge&logo=appstore&logoColor=e5e7eb&labelColor=0b0f1a&color=e23636)](https://apps.apple.com/us/app/wordquest-word-search-trivia/id6823018169)
+[![WordQuest on Google Play](https://img.shields.io/badge/WordQuest-Google_Play-0b0f1a?style=for-the-badge&logo=googleplay&logoColor=e5e7eb&labelColor=0b0f1a&color=e23636)](https://play.google.com/store/apps/details?id=com.mamatiquest.app)
 
 </div>
 
@@ -20,7 +21,7 @@
 struct Anthony {
     let base      = "Nairobi, Kenya 🇰🇪"
     let role      = "Student developer — mobile, web and systems"
-    let shipping  = "WordQuest → App Store review, Android build alongside"
+    let shipped   = "WordQuest → live on the App Store and Google Play"
     let stack     = ["Swift", "Kotlin", "TypeScript", "C", "Python"]
     let enjoys    = ["finishing things", "clean UI", "markets & AI news", "Batman / Iron Man"]
 
@@ -39,7 +40,7 @@ struct Anthony {
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/GameKit-111827?style=flat-square&logo=apple&logoColor=white" />
-      <img src="https://img.shields.io/badge/In_App_Store_Review-f5c518?style=flat-square&logo=appstore&logoColor=black" />
+      <a href="https://apps.apple.com/us/app/wordquest-word-search-trivia/id6823018169"><img src="https://img.shields.io/badge/Live_on_the_App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nambiropeter/WordQuest-Android">🤖 WordQuest — Android</a></h3>
@@ -47,7 +48,7 @@ struct Anthony {
       <br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-      <img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleads&logoColor=white" />
+      <a href="https://play.google.com/store/apps/details?id=com.mamatiquest.app"><img src="https://img.shields.io/badge/Live_on_Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
